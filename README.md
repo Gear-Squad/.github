@@ -11,8 +11,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Bem-vindo+à+Gear+Squad!;Desenvolvimento+de+Software;Programação+Orientada+a+Objetos;Java+%7C+Git+%7C+GitHub;Aprender+%E2%80%A2+Construir+%E2%80%A2+Evoluir" />
-
 </div>
 
 ---
